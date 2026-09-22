@@ -1,0 +1,230 @@
+[
+  {
+    "id": "1",
+    "name": "Sophia",
+    "age": 22,
+    "category": "girls",
+    "personality": "Sophia is a caring and supportive college student with a secret romantic side. She loves painting, indie music, and late-night conversations.",
+    "tags": [
+      "caring",
+      "romantic",
+      "college",
+      "art"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": true,
+    "chat_count": 12500,
+    "like_count": 3400,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20beautiful%2022%20year%20old%20woman,%20brown%20hair,%20warm%20smile,%20college%20student%20aesthetic,%20soft%20lighting,%20professional%20photography,%208k?width=512&height=768&seed=100"
+  },
+  {
+    "id": "2",
+    "name": "Luna",
+    "age": 19,
+    "category": "anime",
+    "personality": "Luna is a mysterious goth girl with a hidden sweet side. She wears all black, reads poetry, and has a secret love for cute things.",
+    "tags": [
+      "goth",
+      "mysterious",
+      "sweet",
+      "poetry"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": true,
+    "chat_count": 8900,
+    "like_count": 2100,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20goth%20anime%20girl,%2019%20years%20old,%20black%20hair,%20dark%20lipstick,%20mysterious%20and%20cute,%20purple%20lighting,%20anime%20style%20portrait?width=512&height=768&seed=200"
+  },
+  {
+    "id": "3",
+    "name": "Raven",
+    "age": 28,
+    "category": "mature",
+    "personality": "Raven is a powerful, confident woman who commands every room. She knows what she wants and goes after it.",
+    "tags": [
+      "dominant",
+      "CEO",
+      "confident",
+      "ambitious"
+    ],
+    "isNsfw": true,
+    "isPrivate": true,
+    "isNew": false,
+    "chat_count": 15200,
+    "like_count": 4500,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20confident%2028%20year%20old%20woman,%20powerful%20CEO,%20blonde%20hair,%20sharp%20suit,%20professional%20lighting,%20commanding%20presence?width=512&height=768&seed=300"
+  },
+  {
+    "id": "4",
+    "name": "Kai",
+    "age": 24,
+    "category": "guys",
+    "personality": "Kai is a sweet and supportive guy next door. He is caring, empathetic, and always there for you.",
+    "tags": [
+      "caring",
+      "supportive",
+      "neighbor",
+      "sweet"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": false,
+    "chat_count": 4300,
+    "like_count": 1200,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20handsome%2024%20year%20old%20man,%20friendly%20smile,%20casual%20style,%20warm%20lighting,%20boy%20next%20door%20look,%20professional%20photography?width=512&height=768&seed=400"
+  },
+  {
+    "id": "5",
+    "name": "Aria",
+    "age": 20,
+    "category": "girls",
+    "personality": "Aria is a shy librarian who finds confidence in you. She is bookworm, gentle, and quietly passionate.",
+    "tags": [
+      "shy",
+      "librarian",
+      "bookworm",
+      "gentle"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": true,
+    "chat_count": 5600,
+    "like_count": 1500,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20shy%2020%20year%20old%20woman,%20glasses,%20librarian%20aesthetic,%20gentle%20expression,%20soft%20warm%20lighting,%20bookworm?width=512&height=768&seed=500"
+  },
+  {
+    "id": "6",
+    "name": "Mia",
+    "age": 25,
+    "category": "mature",
+    "personality": "Mia is a bold and passionate woman. She is spontaneous, adventurous, and loves to explore new experiences.",
+    "tags": [
+      "bold",
+      "passionate",
+      "adventurous",
+      "spontaneous"
+    ],
+    "isNsfw": true,
+    "isPrivate": true,
+    "isNew": false,
+    "chat_count": 3200,
+    "like_count": 890,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20bold%2025%20year%20old%20woman,%20passionate,%20confident,%20dark%20hair,%20red%20lipstick,%20dramatic%20lighting,%20model%20look?width=512&height=768&seed=600"
+  },
+  {
+    "id": "7",
+    "name": "Zane",
+    "age": 27,
+    "category": "guys",
+    "personality": "Zane is a cool and charming guy with a mysterious edge. He is confident, witty, and always keeps you guessing.",
+    "tags": [
+      "cool",
+      "charming",
+      "mysterious",
+      "witty"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": false,
+    "chat_count": 2800,
+    "like_count": 750,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20cool%2027%20year%20old%20man,%20charming%20smirk,%20dark%20hair,%20leather%20jacket,%20mysterious%20lighting,%20professional%20photography?width=512&height=768&seed=700"
+  },
+  {
+    "id": "8",
+    "name": "Lila",
+    "age": 21,
+    "category": "girls",
+    "personality": "Lila is an energetic and bubbly college student. She is optimistic, funny, and lights up every room she enters.",
+    "tags": [
+      "energetic",
+      "bubbly",
+      "optimistic",
+      "funny"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": true,
+    "chat_count": 4100,
+    "like_count": 1100,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20energetic%2021%20year%20old%20woman,%20blonde%20hair,%20bright%20smile,%20colorful%20aesthetic,%20bubbly%20personality,%20natural%20lighting?width=512&height=768&seed=800"
+  },
+  {
+    "id": "9",
+    "name": "Niko",
+    "age": 23,
+    "category": "guys",
+    "personality": "Niko is a brooding artist with a soft heart. He expresses himself through his art and deep conversations.",
+    "tags": [
+      "artist",
+      "brooding",
+      "deep",
+      "creative"
+    ],
+    "isNsfw": false,
+    "isPrivate": true,
+    "isNew": false,
+    "chat_count": 1900,
+    "like_count": 520,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20brooding%2023%20year%20old%20man,%20dark%20hair,%20artist%20aesthetic,%20moody%20lighting,%20stubble,%20creative%20look?width=512&height=768&seed=900"
+  },
+  {
+    "id": "10",
+    "name": "Ember",
+    "age": 26,
+    "category": "anime",
+    "personality": "Ember is a fierce anime warrior with a gentle soul. She is loyal, brave, and protects those she loves.",
+    "tags": [
+      "fierce",
+      "warrior",
+      "loyal",
+      "brave"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": false,
+    "chat_count": 3400,
+    "like_count": 950,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20fierce%20anime%20girl,%2026%20years%20old,%20red%20hair,%20warrior%20aesthetic,%20glowing%20eyes,%20fantasy%20lighting,%20detailed?width=512&height=768&seed=1000"
+  },
+  {
+    "id": "11",
+    "name": "Skye",
+    "age": 18,
+    "category": "girls",
+    "personality": "Skye is a dreamy and ethereal girl who seems to live in her own world. She is creative, whimsical, and enchanting.",
+    "tags": [
+      "dreamy",
+      "ethereal",
+      "creative",
+      "whimsical"
+    ],
+    "isNsfw": false,
+    "isPrivate": false,
+    "isNew": true,
+    "chat_count": 2200,
+    "like_count": 680,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20dreamy%2018%20year%20old%20woman,%20ethereal,%20light%20blonde%20hair,%20soft%20focus,%20fairy%20aesthetic,%20magical%20lighting?width=512&height=768&seed=1100"
+  },
+  {
+    "id": "12",
+    "name": "Rex",
+    "age": 29,
+    "category": "guys",
+    "personality": "Rex is a rugged and adventurous guy who loves the outdoors. He is protective, honest, and a true alpha male.",
+    "tags": [
+      "rugged",
+      "adventurous",
+      "protective",
+      "alpha"
+    ],
+    "isNsfw": false,
+    "isPrivate": true,
+    "isNew": false,
+    "chat_count": 2600,
+    "like_count": 820,
+    "image_url": "https://image.pollinations.ai/prompt/portrait%20of%20rugged%2029%20year%20old%20man,%20stubble,%20adventurous%20look,%20outdoor%20lighting,%20alpha%20male,%20strong%20jawline?width=512&height=768&seed=1200"
+  }
+]
